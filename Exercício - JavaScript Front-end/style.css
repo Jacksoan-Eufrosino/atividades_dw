@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#api{
+    text-align: center;
+    margin: 6px;
+    padding: 6px;
+}
+
+#pesquisa{
+    display: flex;
+    justify-content: center;
+    padding: 6px;
+    
+}
+
+#resultado{
+    display: flex;
+    justify-content: center;
+}
